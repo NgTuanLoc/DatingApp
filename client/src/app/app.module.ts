@@ -30,8 +30,8 @@ import { ServerErrorComponent } from './errors/server-error/server-error.compone
 		ListsComponent,
 		MessagesComponent,
 		TestErrorComponent,
-  NotFoundComponent,
-  ServerErrorComponent,
+		NotFoundComponent,
+		ServerErrorComponent,
 	],
 	imports: [
 		BrowserModule,
